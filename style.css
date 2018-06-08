@@ -1,0 +1,14 @@
+.block{
+  height: 400px;
+  width: 100%;
+  background-image: url(img/computer-code.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.brand-logo{
+	font-style: oblique;
+	margin-left: 43%;
+}
+.text{
+	font-style: italic;
+}
